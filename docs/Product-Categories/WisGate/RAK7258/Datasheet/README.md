@@ -124,7 +124,7 @@ The status of the LEDs is described as below:
 | Feature              | Specifications                                               |
 | -------------------- | ------------------------------------------------------------ |
 | Operating Frequency  | EU433 / CN470 / EU868 / US915 / AS923 / U915 / IN865 / KR920 |
-| Transmit Power       | 27 dBm (Max)                                                 |
+| Transmit Power       | 20 dBm (Max)                                                 |
 | Receiver Sensitivity | -142 dBm (Min)                                               |
 
 ##### Wi-Fi Radio Specifications
